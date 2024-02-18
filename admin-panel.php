@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <?php 
 include('func.php');  
 include('newfunc.php');
